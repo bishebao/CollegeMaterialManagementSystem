@@ -1,0 +1,2 @@
+# CollegeMaterialManagementSystem
+ 基于springboot的学院物资管理系统
